@@ -1,8 +1,10 @@
 t indicates FFT transformed data as in "tbody"
 f indicates frequency data in Hz as in "fbody"
 
+means of values calculated by melting the reduced data set (66 mean and standard deviation variables) and using dcast by the subject and activity type to group the variables
+
 Column number and associated variable name
-"1" "tbody acceleration mean x"
+"1" "tbody acceleration mean x"//
 "2" "tbody acceleration mean y"
 "3" "tbody acceleration mean z"
 "4" "tbody acceleration standard deviation x"
